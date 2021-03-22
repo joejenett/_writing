@@ -1,3 +1,3 @@
 # github.joejenett.com
  
-Working on it...
+I'm hoping to archive some of my writing here.
