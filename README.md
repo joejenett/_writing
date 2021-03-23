@@ -1,3 +1,3 @@
 # github.joejenett.com
  
-I'm hoping to archive some of my writing here.
+an [archive](https://joejenett.github.io/) of some of my writing
