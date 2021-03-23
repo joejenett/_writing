@@ -19,4 +19,4 @@
 > 
 > Posted in [personal](https://simply.personal.jenett.org/category/personal/) | Syndication Links
 > 
-> -   [](https://twitter.com/joejenett/status/1370854001986666503)
+> -   [twitter](https://twitter.com/joejenett/status/1370854001986666503)
