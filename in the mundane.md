@@ -17,6 +17,4 @@
 > 
 > I’ve been spending time gathering ideas in the [garden (of sorts)](https://joe.jenett.org) – check it out and yeah, thanks for stopping by.
 > 
-> Posted in [personal](https://simply.personal.jenett.org/category/personal/) | Syndication Links
-> 
-> -   [](https://twitter.com/joejenett/status/1370854001986666503)
+> Posted in [personal](https://simply.personal.jenett.org/category/personal/)
