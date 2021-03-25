@@ -1,3 +1,3 @@
 # github.joejenett.com
  
-an [archive](https://joejenett.github.io/) of some of my writing
+homepage for joe @ github and an [archive](https://joejenett.github.io/writing) of some of my writing
