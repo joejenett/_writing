@@ -2,8 +2,9 @@
 layout: post
 title:  "in the mundane"
 date:   2021-03-13 16:47:00 -0400
-categories: archive
+categories: jekyll update
 ---
+
 [in the mundane – simply. personal.](https://simply.personal.jenett.org/in-the-mundane/)  
   
 
