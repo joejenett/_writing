@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2021-03-24 20:23:42 -0400
-categories: jekyll update
+title:  "in the mundane"
+date:   2021-03-13 16:47:00 -0400
+categories: archive
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+[in the mundane – simply. personal.](https://simply.personal.jenett.org/in-the-mundane/)  
+  
 
-Jekyll requires blog post files to be named according to the following format:
-
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+> # [in the mundane](https://simply.personal.jenett.org/in-the-mundane/ "Permalink to in the mundane")
+> 
+> Posted on [March 13, 2021](https://simply.personal.jenett.org/in-the-mundane/ "4:47 pm")
+> 
+> by ![](https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&d=identicon&r=pg) [joe jenett](https://simply.personal.jenett.org/author/admin/ "View all posts by joe jenett")
+> 
+> Anything exciting to write about?
+> 
+> How ’bout the fact that I’m here to write this – another chance to capture ideas – my days are numbered. Your’s are too. There’s nothing more cliché than _that’s life_.
+> 
+> So. Need to carry on and make the best of my time.
+> 
+> I’m tickled you’re here reading this. I may not know you nor get feedback but that’s okay. I still have a chance to touch you in some way with what I share – what could be better than that!
+> 
+> I’ve been spending time gathering ideas in the [garden (of sorts)](https://joe.jenett.org) – check it out and yeah, thanks for stopping by.
+> 
+> Posted in [personal](https://simply.personal.jenett.org/category/personal/)
