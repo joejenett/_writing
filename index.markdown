@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+logo: logo.jpj
 ---
 Now we’re on the right track... 
 
