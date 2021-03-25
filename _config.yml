@@ -21,7 +21,6 @@
 title: joejenett.github.io
 # email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
-  a work in progress
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joejenett
