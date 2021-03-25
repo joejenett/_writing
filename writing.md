@@ -1,3 +1,2 @@
-joe’s writing archive
----
+# joe’s writing archive
 new home for the writing
