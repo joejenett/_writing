@@ -1,6 +1,4 @@
 ---
 title: joe’s writing archive
 ---
-new home for the writing
-
-stay tuned...
+<a href="https://joejenett.github.io/in-the-mundane.html">in the mundane</a>
