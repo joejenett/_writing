@@ -15,10 +15,9 @@ layout: default
       {%- for post in site.posts -%}
       <li style="margin-bottom:6px;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <!--span class="post-meta">{{ post.date | date: date_format }}</span-->
-        <h3 style="line-height:1.2em;">
+        <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }} <span style="font-size:.6em;font-weight:200;">({{ post.date | date: date_format }})</span>
+            {{ post.title | escape }} <span span class="post-meta">({{ post.date | date: date_format }})</span>
           </a> 
         </h3>
         {%- if site.show_excerpts -%}
