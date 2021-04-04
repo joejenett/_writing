@@ -4,6 +4,4 @@
 
 layout: home
 ---
-Now we’re on the right track... 
 
-Working on it.

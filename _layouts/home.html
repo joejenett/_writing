@@ -10,16 +10,16 @@ layout: default
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
+    <h2 class="post-list-heading">{{ page.list_title | default: "posts" }}</h2>
+    <ul class="post-list" style="margin-bottom:48px;">
       {%- for post in site.posts -%}
-      <li>
+      <li style="margin-bottom:6px;">
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
+        <!--span class="post-meta">{{ post.date | date: date_format }}</span-->
+        <h3 style="line-height:1.2em;">
           <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
+            {{ post.title | escape }} <span style="font-size:.6em;font-weight:200;">({{ post.date | date: date_format }})</span>
+          </a> 
         </h3>
         {%- if site.show_excerpts -%}
           {{ post.excerpt }}
