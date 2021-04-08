@@ -7,9 +7,9 @@ categories: archives
 
 [poor winner, poor loser – simply. personal.](https://simply.personal.jenett.org/poor-winner-poor-loser/)
 
-# [poor winner, poor loser](https://simply.personal.jenett.org/poor-winner-poor-loser/ "Permalink to poor winner, poor loser")
+**<big>[poor winner, poor loser](https://simply.personal.jenett.org/poor-winner-poor-loser/ "Permalink to poor winner, poor loser")</big>**
 
-Posted on [November 9, 2020](https://simply.personal.jenett.org/poor-winner-poor-loser/ "4:48 pm")
+<small>Posted on [November 9, 2020](https://simply.personal.jenett.org/poor-winner-poor-loser/ "4:48 pm")</small>
 
 by ![](https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&d=identicon&r=pg) [joe jenett](https://simply.personal.jenett.org/author/admin/ "View all posts by joe jenett")
 

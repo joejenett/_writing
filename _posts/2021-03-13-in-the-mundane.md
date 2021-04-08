@@ -8,9 +8,9 @@ categories: archives
 [in the mundane – simply. personal.](https://simply.personal.jenett.org/in-the-mundane/)  
   
 
-# [in the mundane](https://simply.personal.jenett.org/in-the-mundane/ "Permalink to in the mundane")
+**<big>[in the mundane](https://simply.personal.jenett.org/in-the-mundane/ "Permalink to in the mundane")</big>**
 
-Posted on [March 13, 2021](https://simply.personal.jenett.org/in-the-mundane/ "4:47 pm")
+<small>Posted on [March 13, 2021](https://simply.personal.jenett.org/in-the-mundane/ "4:47 pm")</small>
 
 by ![](https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&d=identicon&r=pg) [joe jenett](https://simply.personal.jenett.org/author/admin/ "View all posts by joe jenett")
 

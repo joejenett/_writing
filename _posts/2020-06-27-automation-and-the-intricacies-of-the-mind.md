@@ -7,9 +7,9 @@ categories: archives
 
 [automation and the intricacies of the mind – simply. personal.](https://simply.personal.jenett.org/automation-and-the-intricacies-of-the-mind/)
 
-# [automation and the intricacies of the mind](https://simply.personal.jenett.org/automation-and-the-intricacies-of-the-mind/ "Permalink to automation and the intricacies of the mind")
+**<big>[automation and the intricacies of the mind](https://simply.personal.jenett.org/automation-and-the-intricacies-of-the-mind/ "Permalink to automation and the intricacies of the mind")</big>**
 
-Posted on [June 27, 2020](https://simply.personal.jenett.org/automation-and-the-intricacies-of-the-mind/ "10:12 am")
+<small>Posted on [June 27, 2020](https://simply.personal.jenett.org/automation-and-the-intricacies-of-the-mind/ "10:12 am")</small>
 
 by ![](https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&d=identicon&r=pg) [joe jenett](https://simply.personal.jenett.org/author/admin/ "View all posts by joe jenett")
 

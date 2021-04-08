@@ -6,9 +6,9 @@ categories: archives
 ---
 [what to say - simply. personal.](https://simply.personal.jenett.org/what-to-say/)
 
-# [what to say](https://simply.personal.jenett.org/what-to-say/ "Permalink to what to say")
+**<big>[what to say](https://simply.personal.jenett.org/what-to-say/ "Permalink to what to say")</big>**
 
-Posted on [March 31, 2020](https://simply.personal.jenett.org/what-to-say/ "11:45 am")
+<small>Posted on [March 31, 2020](https://simply.personal.jenett.org/what-to-say/ "11:45 am")</small>
 
 by ![](https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&d=identicon&r=pg) [joe jenett](https://simply.personal.jenett.org/author/admin/ "View all posts by joe jenett")
 
