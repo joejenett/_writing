@@ -362,7 +362,7 @@ table {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
-.e-content {
+.e-content p {
   font-family: Georgia,Times, serif;
 }
 ul.post-list li h3 {
