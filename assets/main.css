@@ -364,6 +364,7 @@ table {
         font-size: 18px; } }
 .e-content p {
   font-family: Georgia,Times, serif;
+  font-size: 1.1em;
 }
 ul.post-list li h3 {
 line-height:1.2em;
