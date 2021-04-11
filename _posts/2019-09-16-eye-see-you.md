@@ -4,14 +4,6 @@ title:  "eye see you"
 date:   2019-09-16 07:21:00 -0400
 categories: archives
 ---
-[eye see you – simply. personal.](https://simply.personal.jenett.org/eye-see-you/)
-
-**<big>[eye see you](https://simply.personal.jenett.org/eye-see-you/ "Permalink to eye see you")</big>**
-
-<small>Posted on [September 16, 2019](https://simply.personal.jenett.org/eye-see-you/ "7:21 am")</small>
-
-by ![](https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&d=identicon&r=pg) [joe jenett](https://simply.personal.jenett.org/author/admin/ "View all posts by joe jenett")
-
 When I was in the ICU following treatment for a brain hemorrhage, a doctor or nurse would stop by my bed every 10-20 minutes. They’d tell me to pull their finger and ask me things like “what year is it?”or “what’s your middle name?” They always seemed so pleased I knew all the answers
 
 ## the system in my head

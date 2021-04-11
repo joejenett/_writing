@@ -4,14 +4,6 @@ title:  "what to say"
 date:   2020-03-31 11:45:00 -0400
 categories: archives
 ---
-[what to say - simply. personal.](https://simply.personal.jenett.org/what-to-say/)
-
-**<big>[what to say](https://simply.personal.jenett.org/what-to-say/ "Permalink to what to say")</big>**
-
-<small>Posted on [March 31, 2020](https://simply.personal.jenett.org/what-to-say/ "11:45 am")</small>
-
-by ![](https://secure.gravatar.com/avatar/0bf0445b4e4b39f830b186b7e23195a1?s=40&d=identicon&r=pg) [joe jenett](https://simply.personal.jenett.org/author/admin/ "View all posts by joe jenett")
-
 I’m 69 years old. I’ve outlived both of my parents, David Bowie, and Prince for starters. That’s not to say I’m free of health challenges possibly jeopardizing my own longevity, it’s just to say I am here and I am grateful especially in light of the seemingly impending doom surrounding the world at the moment. We’re not doomed but the wakeup call is duly noted.
 
 ## safe at the moment
