@@ -2,6 +2,8 @@
 layout: page
 title: photos
 ---
+04/16/21: Working on this. Substantial changes are coming.😎
+
 <div id="thumbs">
 <a href="/photos/arcadefire.jpg" class="lightview" data-lightview-group="archive" data-lightview-title="remembering the Arcade Fire experience" data-lightview-caption=""><img src="thumbs/arcadefire.jpg" alt=""/></a>
 <a href="/photos/pink.jpg" class="lightview" data-lightview-group="archive" data-lightview-title="Pink" data-lightview-caption=""><img src="thumbs/pink.jpg" alt=""/></a>
