@@ -2,7 +2,7 @@
 layout: page
 title: photos
 ---
-04/16/21: Working on this. Substantial changes are coming.😎
+04/16/21: Working on this. 😎
 
 <div id="thumbs">
 <a href="/photos/arcadefire.jpg" class="glightbox" data-title="remembering the Arcade Fire experience" ><img src="thumbs/arcadefire.jpg" alt=""/></a>
