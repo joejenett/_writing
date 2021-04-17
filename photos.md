@@ -14,12 +14,11 @@ title: photos
 <a href="/photos/almost-here.jpg" class="glightbox" data-title="almost here"><img src="thumbs/almost-here.jpg" alt=""/></a>
 <a href="/photos/miami06.jpg" class="glightbox" data-title="Miami ‘06"><img src="thumbs/miami06.jpg" alt=""/></a>
 <a href="/photos/survivors.jpg" class="glightbox" data-title="survivors"><img src="thumbs/survivor-150x150.jpg" alt=""/></a>
-<a href="/photos/tinybeaches.jpg" class="glightbox" data-title="tiny beaches"><img src="thumbs/tinybeaches-150x150.jpg" alt=""/></a>
+<a href="/photos/tinybeaches.jpg" class="glightbox" data-zoomable="true" data-title="tiny beaches"><img src="thumbs/tinybeaches-150x150.jpg" alt=""/></a>
 </div>
 
 <script type="text/javascript">
   const lightbox = GLightbox({
     touchNavigation: true,
-    loop: true,
-    autoplayVideos: true
+    loop: true
 });
