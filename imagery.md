@@ -1,6 +1,6 @@
 ---
 layout: page
-title: photos
+title: imagery
 ---
 <div id="thumbs">
 <a href="/photos/arcadefire.jpg" class="glightbox" data-title="remembering the Arcade Fire experience" ><img src="thumbs/arcadefire.jpg" alt=""/></a>
