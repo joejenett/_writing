@@ -20,7 +20,9 @@ title: imagery
 <a href="/photos/tinybeaches.jpg" class="glightbox" data-zoomable="true" data-title="tiny beaches"><img src="thumbs/tinybeaches-150x150.jpg" alt=""/></a>
 <a href="/photos/windy_remix.jpg" class="glightbox" data-title="windy remix"><img src="thumbs/windy_remix-150x150.jpg" alt=""/></a>
 </div>
-
+<div style="padding-top:48px;font-size:.8em;clear:both;">
+(gallery powered by <a title="GitHub - biati-digital/glightbox: Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes" href="https://github.com/biati-digital/glightbox">biati-digital/glightbox</a>)
+</div>
 <script type="text/javascript">
   const lightbox = GLightbox({
     touchNavigation: true,
