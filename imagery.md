@@ -19,6 +19,14 @@ title: imagery
 <a href="/photos/survivors.jpg" class="glightbox" data-title="survivors"><img src="thumbs/survivor-150x150.jpg" alt=""/></a>
 <a href="/photos/tinybeaches.jpg" class="glightbox" data-zoomable="true" data-title="tiny beaches"><img src="thumbs/tinybeaches-150x150.jpg" alt=""/></a>
 <a href="/photos/windy_remix.jpg" class="glightbox" data-title="windy remix"><img src="thumbs/windy_remix-150x150.jpg" alt=""/></a>
+<a href="/photos/beepers.jpg" class="glightbox" data-title="beepers"><img src="thumbs/beepers-thumb.jpg" alt=""/></a>
+<a href="/photos/intersect_11.jpg" class="glightbox" data-title="intersect 11"><img src="thumbs/intersect_11-thumb.jpg" alt=""/></a>
+<a href="/photos/stepping_out.jpg" class="glightbox" data-title="stepping out
+"><img src="thumbs/stepping_out-thumb.jpg" alt=""/></a>
+<a href="/photos/new_year_pile.jpg" class="glightbox" data-title="new year pile"><img src="thumbs/new_year_pile-thumb.jpg" alt=""/></a>
+<a href="/photos/in_the_blues.jpg" class="glightbox" data-title="in the blues"><img src="thumbs/in_the_blues-thumb.jpg" alt=""/></a>
+<a href="/photos/bluegreen_forever.jpg" class="glightbox" data-title="bluegreen_forever"><img src="thumbs/bluegreen_forever-thumb.jpg" alt=""/></a>
+
 </div>
 <div style="padding-top:48px;font-size:.8em;clear:both;">
 (gallery powered by <a title="GitHub - biati-digital/glightbox: Pure Javascript lightbox with mobile support. It can handle images, videos with autoplay, inline content and iframes" href="https://github.com/biati-digital/glightbox">biati-digital/glightbox</a>)
