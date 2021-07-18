@@ -4,7 +4,7 @@ title: imagery
 ---
 <div id="thumbs">
 <a href="/writing/photos/arcadefire.jpg" class="glightbox" data-title="remembering the Arcade Fire experience" ><img src="thumbs/arcadefire.jpg" alt=""/></a>
-<a href="/writing/photos/art_is_everywhere.jpg" class="glightbox" data-title="art is everywhere"><img src="/thumbs/art_is_everywhere-200x200.jpg" alt=""/></a>
+<a href="/writing/photos/art_is_everywhere.jpg" class="glightbox" data-title="art is everywhere"><img src="thumbs/art_is_everywhere-200x200.jpg" alt=""/></a>
 <a href="/writing/photos/wooden-bridge.jpg" class="glightbox" data-title="wooden bridge"><img src="thumbs/wooden-bridge-150x150.jpg" alt=""/></a>
 <a href="/writing/photos/urban_dream.jpg" class="glightbox" data-title="urban dream"><img src="thumbs/urban_dream-115x115.jpg" alt=""/></a>
 <a href="/writing/photos/pink.jpg" class="glightbox" data-title="Pink"><img src="thumbs/pink.jpg" alt=""/></a>
