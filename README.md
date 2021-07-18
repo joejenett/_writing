@@ -1,3 +1,3 @@
 # github.joejenett.com
 
-[joe’s writing archive](https://joejenett.github.io/_writing)
+[joe’s writing archive](https://joejenett.github.io/writing)
