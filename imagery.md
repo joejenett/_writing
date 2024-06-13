@@ -2,6 +2,9 @@
 layout: page
 title: imagery
 ---
+  {%- if page.title -%}
+    <h1 class="page-heading">{{ page.title }}</h1>
+  {%- endif -%}
 <div id="thumbs">
 <a href="/writing/photos/arcadefire.jpg" class="glightbox" data-title="remembering the Arcade Fire experience" ><img src="thumbs/arcadefire.jpg" alt=""/></a>
 <a href="/writing/photos/art_is_everywhere.jpg" class="glightbox" data-title="art is everywhere"><img src="thumbs/art_is_everywhere-200x200.jpg" alt=""/></a>
